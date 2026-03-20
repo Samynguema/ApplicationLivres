@@ -114,7 +114,8 @@ const BOOKS = [
   },
   {
     id: 'bk-11',
-    title: 'Java' + 'Script: The Good Parts',
+    // eslint-disable-next-line no-script-url
+    title: 'JavaScript: The Good Parts',
     author: 'Douglas Crockford',
     category: 'Tech',
     price: 24.0,
